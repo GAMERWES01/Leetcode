@@ -8,10 +8,7 @@
 
     <ItemGroup>
       <Folder Include="1-9999\1-999\1-99\1-9\" />
-      <Folder Include="1-9999\1-999\1-99\20-29\" />
-      <Folder Include="1-9999\1-999\1-99\30-39\" />
       <Folder Include="1-9999\1-999\1-99\40-49\" />
-      <Folder Include="1-9999\1-999\1-99\60-69\" />
       <Folder Include="1-9999\1-999\1-99\70-79\" />
       <Folder Include="1-9999\1-999\1-99\80-89\" />
       <Folder Include="1-9999\1-999\1-99\90-99\" />

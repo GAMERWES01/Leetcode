@@ -1,4 +1,6 @@
-namespace Leetcode._1_9999._1_999._100_199._100_109._100;
+using Leetcode.Classes;
+
+namespace Leetcode._1_9999._1_999._100_199._100_109;
 
 public class _100_Same_Tree
 {

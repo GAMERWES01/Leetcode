@@ -1,4 +1,4 @@
-namespace Leetcode._1_9999._1_999._100_199._100_109._100;
+namespace Leetcode.Classes;
 
 public class TreeNode
 {
